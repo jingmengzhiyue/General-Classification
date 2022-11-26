@@ -1,0 +1,1 @@
+A generalized classification model in hyperspectral image processing, which includes image classification, image unmixing, and change detection.
